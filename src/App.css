@@ -1,0 +1,46 @@
+div {
+    /* border: solid; */
+    display: flex;
+}
+
+#root {
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex-direction-row {
+    flex-direction: row;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+.max-width-500px {
+    max-width: 500px;
+}
+
+.widht-100pct {
+    width: 100%;
+}
+
+.font-size-xx-large {
+    font-size: xx-large;
+}
+
+.margin-left {
+    margin-left: 25%;
+}
+
+
+.color-blue {
+    color: blue;
+}
+
+.color-red {
+    color: red;
+}
+
+.background-color-orange {
+    background-color: orange;
+}
